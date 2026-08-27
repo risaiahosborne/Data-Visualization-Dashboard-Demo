@@ -3,6 +3,9 @@ from pathlib import Path
 
 import pandas as pd
 
+DATA_RAW_DIR = Path("data_raw")
+RAW_FILE_NAME = "Meteorite_Landings.csv"
+
 def setup_logger() -> logging.Logger:
     """
     Sets up a logger for the application.
@@ -28,9 +31,6 @@ def setup_logger() -> logging.Logger:
         logger.addHandler(ch) 
         
     return logger
-
-DATA_RAW_DIR = Path("data_raw")
-RAW_FILE_NAME = "Meteorite_Landings.csv"
 
 def load_raw_meteorite_data(logger: logging.Logger) -> pd.DataFrame:
     """

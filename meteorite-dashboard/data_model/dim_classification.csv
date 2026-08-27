@@ -1,0 +1,570 @@
+recclass,nametype,fall,fall_found_flag,classification_key
+l5,valid,fell,fell,1
+h6,valid,fell,fell,2
+eh4,valid,fell,fell,3
+acapulcoite,valid,fell,fell,4
+l6,valid,fell,fell,5
+ll3-6,valid,fell,fell,6
+h5,valid,fell,fell,7
+l,valid,fell,fell,8
+diogenite-pm,valid,fell,fell,9
+unknown,valid,fell,fell,10
+h4,valid,fell,fell,11
+h,valid,fell,fell,12
+"iron, iva",valid,fell,fell,13
+cr2-an,valid,fell,fell,14
+ll5,valid,fell,fell,15
+ci1,valid,fell,fell,16
+l/ll4,valid,fell,fell,17
+eucrite-mmict,valid,fell,fell,18
+cv3,valid,fell,fell,19
+ureilite-an,valid,fell,fell,20
+stone-uncl,valid,fell,fell,21
+l3,valid,fell,fell,22
+l5,valid,found,found,23
+angrite,valid,fell,fell,24
+ll6,valid,fell,fell,25
+l4,valid,fell,fell,26
+aubrite,valid,fell,fell,27
+"iron, iiab",valid,fell,fell,28
+"iron, iab-sll",valid,fell,fell,29
+"iron, ungrouped",valid,fell,fell,30
+cm2,valid,fell,fell,31
+oc,valid,fell,fell,32
+mesosiderite-a1,valid,fell,fell,33
+ll4,valid,fell,fell,34
+c2-ung,valid,fell,fell,35
+ll3.8,valid,fell,fell,36
+howardite,valid,fell,fell,37
+eucrite-pmict,valid,fell,fell,38
+diogenite,valid,fell,fell,39
+ll3.15,valid,fell,fell,40
+ll3.9,valid,fell,fell,41
+"iron, iab-mg",valid,fell,fell,42
+h/l3.9,valid,fell,fell,43
+iron?,valid,fell,fell,44
+eucrite,valid,fell,fell,45
+h4-an,valid,fell,fell,46
+l/ll6,valid,fell,fell,47
+"iron, iiiab",valid,fell,fell,48
+h/l4,valid,fell,fell,49
+h4-5,valid,fell,fell,50
+l3.7,valid,fell,fell,51
+ll3.4,valid,fell,fell,52
+martian (chassignite),valid,fell,fell,53
+el6,valid,fell,fell,54
+h3.8,valid,fell,fell,55
+h3-5,valid,fell,fell,56
+h5-6,valid,fell,fell,57
+mesosiderite,valid,fell,fell,58
+h5-7,valid,fell,fell,59
+l3-6,valid,fell,fell,60
+h4-6,valid,fell,fell,61
+ureilite,valid,fell,fell,62
+"iron, iid",valid,fell,fell,63
+mesosiderite-a3/4,valid,fell,fell,64
+co3.3,valid,fell,fell,65
+h3,valid,fell,fell,66
+eh3/4-an,valid,fell,fell,67
+"iron, iie",valid,fell,fell,68
+l/ll5,valid,fell,fell,69
+h3.7,valid,fell,fell,70
+cba,valid,fell,fell,71
+h4/5,valid,fell,fell,72
+h3/4,valid,fell,fell,73
+h?,valid,fell,fell,74
+h3-6,valid,fell,fell,75
+l3.4,valid,fell,fell,76
+"iron, iab-shl",valid,fell,fell,77
+l3.7-6,valid,fell,fell,78
+eh7-an,valid,fell,fell,79
+iron,valid,fell,fell,80
+cr2,valid,fell,fell,81
+co3.2,valid,fell,fell,82
+k3,valid,fell,fell,83
+l5/6,valid,fell,fell,84
+ck4,valid,fell,fell,85
+"iron, iie-an",valid,fell,fell,86
+l3.6,valid,fell,fell,87
+ll3.2,valid,fell,fell,88
+pallasite,valid,found,found,89
+co3.5,valid,fell,fell,90
+lodranite,valid,fell,fell,91
+mesosiderite-a3,valid,fell,fell,92
+l3-4,valid,fell,fell,93
+h5/6,valid,fell,fell,94
+"pallasite, pmg",valid,fell,fell,95
+eucrite-cm,valid,fell,fell,96
+pallasite,valid,fell,fell,97
+l5-6,valid,fell,fell,98
+co3.6,valid,fell,fell,99
+martian (nakhlite),valid,fell,fell,100
+ll3.6,valid,fell,fell,101
+c3-ung,valid,fell,fell,102
+h3-4,valid,fell,fell,103
+co3.4,valid,fell,fell,104
+l6,valid,found,found,105
+eh3,valid,fell,fell,106
+"iron, iab-ung",valid,fell,fell,107
+ll5,valid,found,found,108
+winonaite,valid,fell,fell,109
+ll,valid,fell,fell,110
+eucrite-br,valid,fell,fell,111
+"iron, iif",valid,fell,fell,112
+r3.8-6,valid,fell,fell,113
+l4-6,valid,fell,fell,114
+eh5,valid,fell,fell,115
+ll3.00,valid,fell,fell,116
+h3.4,valid,fell,fell,117
+martian (shergottite),valid,fell,fell,118
+achondrite-ung,valid,fell,fell,119
+ll3.3,valid,fell,fell,120
+c,valid,fell,fell,121
+h/l3.6,valid,fell,fell,122
+"iron, iiiab-an",valid,fell,fell,123
+ll7,valid,fell,fell,124
+mesosiderite-b2,valid,fell,fell,125
+ll4-6,valid,fell,fell,126
+co3.7,valid,fell,fell,127
+l/ll6-an,valid,fell,fell,128
+"iron, iab complex",valid,fell,fell,129
+"pallasite, pmg-an",valid,fell,fell,130
+h5,valid,found,found,131
+h3.8,valid,found,found,132
+h3-6,valid,found,found,133
+h,valid,found,found,134
+h4,valid,found,found,135
+h3.9/4,valid,found,found,136
+h6,valid,found,found,137
+h4-5,valid,found,found,138
+h3.7,valid,found,found,139
+h5/6,valid,found,found,140
+ll6,valid,found,found,141
+l5/6,valid,found,found,142
+ll4-6,valid,found,found,143
+l3.8,valid,found,found,144
+l5-6,valid,found,found,145
+l/ll6,valid,found,found,146
+l4,valid,found,found,147
+ll5-6,valid,found,found,148
+cr2,valid,found,found,149
+mesosiderite,valid,found,found,150
+ll3.8-6,valid,found,found,151
+h4/5,valid,found,found,152
+l3.9,valid,found,found,153
+cv3,valid,found,found,154
+c2-ung,valid,found,found,155
+l4-5,valid,found,found,156
+l3-5,valid,found,found,157
+ll4/5,valid,found,found,158
+l4/5,valid,found,found,159
+h3.9,valid,found,found,160
+h3.6-6,valid,found,found,161
+h3.8-5,valid,found,found,162
+h5-6,valid,found,found,163
+h3-5,valid,found,found,164
+h3.8/4,valid,found,found,165
+h3.9-5,valid,found,found,166
+ch3,valid,found,found,167
+co3.5,valid,found,found,168
+h3,valid,found,found,169
+r3.8-5,valid,found,found,170
+"iron, iab-ung",valid,found,found,171
+l3.9/4,valid,found,found,172
+ureilite,valid,found,found,173
+e4,valid,found,found,174
+ll4,valid,found,found,175
+cm2,valid,found,found,176
+co3,valid,found,found,177
+l3,valid,found,found,178
+eucrite-cm,valid,found,found,179
+el6,valid,found,found,180
+chondrite-ung,valid,found,found,181
+h4-6,valid,found,found,182
+h~5,valid,found,found,183
+h~6,valid,found,found,184
+"pallasite, pmg",valid,found,found,185
+"iron, iiiab",valid,found,found,186
+eucrite-mmict,valid,found,found,187
+ll3.2,valid,found,found,188
+l/ll3.10,valid,found,found,189
+el5,valid,found,found,190
+ll3,valid,found,found,191
+"iron, iab complex",valid,found,found,192
+"iron, iiab",valid,found,found,193
+eucrite,valid,found,found,194
+oc,valid,found,found,195
+aubrite,valid,found,found,196
+l~6,valid,found,found,197
+l~3,valid,found,found,198
+h~4,valid,found,found,199
+l4-6,valid,found,found,200
+l(ll)3.5-3.7,valid,found,found,201
+achondrite-ung,valid,found,found,202
+l,valid,found,found,203
+"iron, iva",valid,found,found,204
+"iron, iab-shl",valid,found,found,205
+"iron, ungrouped",valid,found,found,206
+"iron, iiie-an",valid,found,found,207
+howardite,valid,found,found,208
+l3.4,valid,found,found,209
+co3.4,valid,found,found,210
+h3.6,valid,found,found,211
+eh4,valid,found,found,212
+ck4,valid,found,found,213
+ll3.4,valid,found,found,214
+l3.4-3.7,valid,found,found,215
+ll3.3,valid,found,found,216
+l3.5,valid,found,found,217
+cm1/2,valid,found,found,218
+martian (opx),valid,found,found,219
+brachinite,valid,found,found,220
+ll7(?),valid,found,found,221
+ll6(?),valid,found,found,222
+eh3,valid,found,found,223
+acapulcoite,valid,found,found,224
+eucrite-mg rich,valid,found,found,225
+diogenite,valid,found,found,226
+h3.5-4,valid,found,found,227
+l3.6,valid,found,found,228
+el3,valid,found,found,229
+r3.6,valid,found,found,230
+l3.7,valid,found,found,231
+h3.5,valid,found,found,232
+h3.4,valid,found,found,233
+cm1,valid,found,found,234
+l/ll3,valid,found,found,235
+h7,valid,found,found,236
+l/ll4,valid,found,found,237
+"iron, iab-mg",valid,found,found,238
+eucrite-pmict,valid,found,found,239
+co3.6,valid,found,found,240
+martian (shergottite),valid,found,found,241
+l(?)3,valid,found,found,242
+l3.2,valid,found,found,243
+l3.7-3.9,valid,found,found,244
+mesosiderite-b1,valid,found,found,245
+l3-6,valid,found,found,246
+eucrite-unbr,valid,found,found,247
+ll3.7,valid,found,found,248
+co3.0,valid,found,found,249
+ll3.5,valid,found,found,250
+l3.7-4,valid,found,found,251
+cv3-an,valid,found,found,252
+lunar (anorth),valid,found,found,253
+l3.3,valid,found,found,254
+"iron, iid",valid,found,found,255
+iron,valid,found,found,256
+"iron, iab-sll",valid,found,found,257
+"iron, iab-slm",valid,found,found,258
+lunar,valid,found,found,259
+l/ll5,valid,found,found,260
+"pallasite, pmg-an",valid,found,found,261
+"iron, ic",valid,found,found,262
+"iron, iie-an",valid,found,found,263
+"iron, iid-an",valid,found,found,264
+"iron, iiie",valid,found,found,265
+"iron, iva-an",valid,found,found,266
+stone-uncl,valid,found,found,267
+ck6,valid,found,found,268
+ll3.8,valid,found,found,269
+ll3.6,valid,found,found,270
+l3.1,valid,found,found,271
+co3.3,valid,found,found,272
+ck5,valid,found,found,273
+h3.3,valid,found,found,274
+ll7,valid,found,found,275
+h3.7-6,valid,found,found,276
+ll,valid,found,found,277
+e6,valid,found,found,278
+h3.0,valid,found,found,279
+eucrite-br,valid,found,found,280
+h3.1,valid,found,found,281
+ll3.9,valid,found,found,282
+l3.0,valid,found,found,283
+l/ll3.4,valid,found,found,284
+angrite,valid,found,found,285
+eh5,valid,found,found,286
+c6,valid,found,found,287
+ll3.0,valid,found,found,288
+lunar (gabbro),valid,found,found,289
+r4,valid,found,found,290
+c4,valid,found,found,291
+"iron, iig",valid,found,found,292
+"iron, iic",valid,found,found,293
+c1-ung,valid,found,found,294
+cba,valid,found,found,295
+h5-an,valid,found,found,296
+eh4/5,valid,found,found,297
+"iron, iiif",valid,found,found,298
+r3-6,valid,found,found,299
+mesosiderite-b4,valid,found,found,300
+l6/7,valid,found,found,301
+relict h,relict,found,found,302
+l-imp melt,valid,found,found,303
+ck3,valid,found,found,304
+h3-an,valid,found,found,305
+h?,valid,found,found,306
+"iron, ivb",valid,found,found,307
+r3.8,valid,found,found,308
+l~5,valid,found,found,309
+h4-an,valid,found,found,310
+mesosiderite-an,valid,found,found,311
+mesosiderite-a2,valid,found,found,312
+"pallasite, pes",valid,found,found,313
+"iron, iie",valid,found,found,314
+unknown,valid,found,found,315
+c4-ung,valid,found,found,316
+"iron, iif",valid,found,found,317
+mesosiderite-a1,valid,found,found,318
+"iron, iab?",valid,found,found,319
+mesosiderite-a,valid,found,found,320
+r3.5-6,valid,found,found,321
+ll3-6,valid,found,found,322
+h3.9-6,valid,found,found,323
+c3-ung,valid,found,found,324
+l3-4,valid,found,found,325
+ureilite-pmict,valid,found,found,326
+ll~6,valid,found,found,327
+ck4/5,valid,found,found,328
+el4,valid,found,found,329
+h3/4,valid,found,found,330
+lunar (feldsp. breccia),valid,found,found,331
+l3.9-6,valid,found,found,332
+h-an,valid,found,found,333
+l/ll3-6,valid,found,found,334
+l/ll3-5,valid,found,found,335
+h/l3.5,valid,found,found,336
+h/l3,valid,found,found,337
+h3-4,valid,found,found,338
+r3-4,valid,found,found,339
+ck3-an,valid,found,found,340
+ll4-5,valid,found,found,341
+h/l6,valid,found,found,342
+l3/4,valid,found,found,343
+h-imp melt,valid,found,found,344
+cr,valid,found,found,345
+chondrite-fusion crust,relict,found,found,346
+"iron, iab-slh",valid,found,found,347
+"iron, iiiab-an",valid,found,found,348
+h(l)3-an,valid,found,found,349
+l(ll)3,valid,found,found,350
+h(l)3,valid,found,found,351
+r3,valid,found,found,352
+diogenite-pm,valid,found,found,353
+l7,valid,found,found,354
+cm-an,valid,found,found,355
+l/ll~6,valid,found,found,356
+l/ll~5,valid,found,found,357
+l~4,valid,found,found,358
+l/ll~4,valid,found,found,359
+ll(l)3,valid,found,found,360
+h3.2,valid,found,found,361
+l-melt breccia,valid,found,found,362
+h6-melt breccia,valid,found,found,363
+h5-melt breccia,valid,found,found,364
+h-melt rock,valid,found,found,365
+eucrite-an,valid,found,found,366
+lunar (bas/anor),valid,found,found,367
+ll5/6,valid,found,found,368
+ll3/4,valid,found,found,369
+h3.4/3.5,valid,found,found,370
+lunar (basalt),valid,found,found,371
+h/l5,valid,found,found,372
+h(5?),valid,found,found,373
+ll-imp melt,valid,found,found,374
+mesosiderite?,valid,found,found,375
+h~4/5,valid,found,found,376
+iron?,valid,found,found,377
+l6-melt breccia,valid,found,found,378
+l3.5-3.7,valid,found,found,379
+"iron, iiab-an",valid,found,found,380
+l3.3-3.7,valid,found,found,381
+l3.2-3.6,valid,found,found,382
+l3.3-3.6,valid,found,found,383
+acapulcoite/lodranite,valid,found,found,384
+mesosiderite-b,valid,found,found,385
+ck5/6,valid,found,found,386
+l3.05,valid,found,found,387
+c2,valid,found,found,388
+c4/5,valid,found,found,389
+l/ll3.2,valid,found,found,390
+mesosiderite-a3,valid,found,found,391
+"iron, iiiab?",valid,found,found,392
+l3.5-5,valid,found,found,393
+winonaite,valid,found,found,394
+lodranite,valid,found,found,395
+l/ll(?)3,valid,found,found,396
+h4(?),valid,found,found,397
+"iron, iab-shh",valid,found,found,398
+relict iron,relict,found,found,399
+martian (nakhlite),valid,found,found,400
+el4/5,valid,found,found,401
+l5-7,valid,found,found,402
+diogenite-an,valid,found,found,403
+l-melt rock,valid,found,found,404
+cr1,valid,found,found,405
+e,valid,found,found,406
+h-metal,valid,found,found,407
+l-metal,valid,found,found,408
+relict oc,relict,found,found,409
+eh,valid,found,found,410
+mesosiderite-a4,valid,found,found,411
+l/ll5/6,valid,found,found,412
+h3.8-4,valid,found,found,413
+cbb,valid,found,found,414
+el6/7,valid,found,found,415
+h/l4,valid,found,found,416
+el7,valid,found,found,417
+ch/cbb,valid,found,found,418
+co3.8,valid,found,found,419
+h/l~4,valid,found,found,420
+mesosiderite-c2,valid,found,found,421
+r5,valid,found,found,422
+h4/6,valid,found,found,423
+h3.7-5,valid,found,found,424
+ll3.7-6,valid,found,found,425
+h3.7/3.8,valid,found,found,426
+l3.7/3.8,valid,found,found,427
+eh-imp melt,valid,found,found,428
+r,valid,found,found,429
+fusion crust,relict,found,found,430
+aubrite-an,valid,found,found,431
+r6,valid,found,found,432
+ureilite-an,valid,found,found,433
+ll-melt rock,valid,found,found,434
+k3,valid,found,found,435
+l3.5-3.9,valid,found,found,436
+l3.2-3.5,valid,found,found,437
+l3.3-3.5,valid,found,found,438
+l3.0-3.7,valid,found,found,439
+e3-an,valid,found,found,440
+k,valid,found,found,441
+e3,valid,found,found,442
+ck4-an,valid,found,found,443
+l(ll)3.05,valid,found,found,444
+l3.10,valid,found,found,445
+cb,valid,found,found,446
+diogenite-olivine,valid,found,found,447
+el-melt rock,valid,found,found,448
+eh6,valid,found,found,449
+"pallasite, ungrouped",valid,found,found,450
+l/ll4/5,valid,found,found,451
+l3.8-an,valid,found,found,452
+"iron, iab-an",valid,found,found,453
+c5/6-ung,valid,found,found,454
+cv2,valid,found,found,455
+"iron, ic-an",valid,found,found,456
+lunar (bas. breccia),valid,found,found,457
+l3.8-6,valid,found,found,458
+r3/4,valid,found,found,459
+r3.9,valid,found,found,460
+ck,valid,found,found,461
+ll3.10,valid,found,found,462
+r3.8-6,valid,found,found,463
+r4/5,valid,found,found,464
+l3.8-5,valid,found,found,465
+mesosiderite-c,valid,found,found,466
+enst achon,valid,found,found,467
+mesosiderite-b2,valid,found,found,468
+h/l3-4,valid,found,found,469
+l(h)3,valid,found,found,470
+ll6/7,valid,found,found,471
+ll3.1,valid,found,found,472
+oc3,valid,found,found,473
+co3.2,valid,found,found,474
+r3.7,valid,found,found,475
+ll~4,valid,found,found,476
+ll~4/5,valid,found,found,477
+l(ll)~4,valid,found,found,478
+h3.05,valid,found,found,479
+h3.10,valid,found,found,480
+impact melt breccia,valid,found,found,481
+ll3-5,valid,found,found,482
+h/l3.7,valid,found,found,483
+ll3-4,valid,found,found,484
+ck3/4,valid,found,found,485
+martian,valid,found,found,486
+co3.1,valid,found,found,487
+lunar (bas/gab brec),valid,found,found,488
+martian (chassignite),valid,found,found,489
+achondrite-prim,valid,found,found,490
+ll<3.5,valid,found,found,491
+ck3.8,valid,found,found,492
+l/ll-melt rock,valid,found,found,493
+h6/7,valid,found,found,494
+"iron, iab-shl-an",valid,found,found,495
+cm2-an,valid,found,found,496
+r3-5,valid,found,found,497
+l4-melt rock,valid,found,found,498
+l6-melt rock,valid,found,found,499
+h/l4/5,valid,found,found,500
+el3/4,valid,found,found,501
+h/l6-melt rock,valid,found,found,502
+enst achon-ung,valid,found,found,503
+l3-7,valid,found,found,504
+r3.4,valid,found,found,505
+ll3.05,valid,found,found,506
+ll4/6,valid,found,found,507
+ll3.8-4,valid,found,found,508
+h3.15,valid,found,found,509
+c3.0-ung,valid,found,found,510
+ll-melt breccia,valid,found,found,511
+ll6-melt breccia,valid,found,found,512
+l5-melt breccia,valid,found,found,513
+ll(l)3.1,valid,found,found,514
+ll6-an,valid,found,found,515
+l4-melt breccia,valid,found,found,516
+howardite-an,valid,found,found,517
+h4-melt breccia,valid,found,found,518
+martian (basaltic breccia),valid,found,found,519
+l3-melt breccia,valid,found,found,520
+l~4-6,valid,found,found,521
+ll~5,valid,found,found,522
+r3.5-4,valid,found,found,523
+cr7,valid,found,found,524
+h-melt breccia,valid,found,found,525
+lunar (norite),valid,found,found,526
+l3.00,valid,found,found,527
+h3.0-3.4,valid,found,found,528
+l/ll4-6,valid,found,found,529
+cm,valid,found,found,530
+eh7,valid,found,found,531
+l4-an,valid,found,found,532
+e-an,valid,found,found,533
+h3.8/3.9,valid,found,found,534
+l3.9-5,valid,found,found,535
+h3.8-6,valid,found,found,536
+h3.4-5,valid,found,found,537
+l3.0-3.9,valid,found,found,538
+l3.5-3.8,valid,found,found,539
+h3.2-3.7,valid,found,found,540
+l3.6-4,valid,found,found,541
+"iron, iie?",valid,found,found,542
+c3/4-ung,valid,found,found,543
+l/ll3.5,valid,found,found,544
+l/ll3.6/3.7,valid,found,found,545
+h/l4-5,valid,found,found,546
+ll~3,valid,found,found,547
+pallasite?,valid,found,found,548
+ll5-7,valid,found,found,549
+ll3.9/4,valid,found,found,550
+h3.8-an,valid,found,found,551
+cr-an,valid,found,found,552
+l/ll5-6,valid,found,found,553
+l(ll)5,valid,found,found,554
+l(ll)6,valid,found,found,555
+ll3.1-3.5,valid,found,found,556
+e5,valid,found,found,557
+lodranite-an,valid,found,found,558
+ci1,valid,found,found,559
+h3.2-6,valid,found,found,560
+ll3.15,valid,found,found,561
+h(?)4,valid,found,found,562
+e5-an,valid,found,found,563
+h3.2-an,valid,found,found,564
+eh6-an,valid,found,found,565
+c,valid,found,found,566
+stone-ung,valid,found,found,567
+c1/2-ung,valid,found,found,568
+l/ll,valid,found,found,569
