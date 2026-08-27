@@ -1,92 +1,18 @@
-Operational Reporting Dashboard
-A complete end‑to‑end business intelligence project demonstrating data engineering, data modeling, and dashboard development aligned with enterprise and government reporting standards. This solution transforms raw operational data into actionable insights for leadership, supporting trend analysis, compliance monitoring, and geographic reporting.
+Meteorite Landings Dashboard  
+-An end‑to‑end BI project using NASA’s Meteorite Landings dataset.
 
-📌 Project Overview
-This project delivers a fully interactive reporting dashboard built with modern BI tools. It converts raw incident data into a structured analytical model and presents key metrics through accessible, stakeholder‑friendly visuals.
+Features
+Python ETL pipeline (ingest → clean → enrich → model)
 
-The solution includes:
+Star‑schema design: FACT_MeteoriteLandings, DIM_Date, DIM_Location
 
-Data cleaning and preparation using Python + SQL
+Severity scoring, geolocation attributes, date hierarchy
 
-A star‑schema analytical model
+Interactive dashboard with trend lines, KPIs, classification charts, and world map
 
-KPI‑driven dashboard with drill‑downs
+Documentation for data lineage, definitions, and reporting requirements
+Tech Stack
+Python • SQL • Power BI/Tableau • VS Code
 
-Documentation for governance and reproducibility
-
-🎯 Business Problem
-Program leadership needed a centralized reporting interface to monitor:
-
-Monthly incident activity
-
-Compliance performance
-
-Geographic distribution across service regions
-
-The dashboard had to support recurring reporting cycles, ad‑hoc analysis, and intuitive drill‑downs for non‑technical users.
-
-🛠️ Data Preparation
-Raw data was processed using Python and SQL to ensure consistency and analytical readiness.
-
-Key steps included:
-
-Categorical normalization
-
-Missing‑value handling
-
-Date dimension creation
-
-Calculated fields (severity scores, compliance flags)
-
-Data quality reconciliation
-
-Cleaned datasets were exported as structured CSV files for BI ingestion.
-
-📐 Data Model Design
-A simplified star schema supports fast filtering, drill‑downs, and time‑series analysis.
-
-Tables
-FACT_Incidents — core operational data
-
-DIM_Date — calendar attributes
-
-DIM_Location — geographic attributes
-
-Relationships were optimized for cross‑filtering and performance.
-
-Dashboard Features
-The dashboard includes:
-
-Monthly trend line for incident volume
-KPI cards for total incidents, compliance rate, severity index
-Bar charts for category‑level comparisons
-Interactive map by county or region
-Filter panel for date, category, severity, and location
-Drill‑down interactions for deeper analysis
-All visuals follow accessibility and government reporting standards.
-
-Business Logic & Calculations
-Custom measures were created to support analytical insights:
-Compliance percentage
-Year‑over‑year change
-Rolling averages
-Severity scoring
-Data quality indicators
-These calculations mirror logic used in state and federal reporting environments.
-
-Documentation
-The project includes full reporting governance artifacts:
-Data Dictionary — definitions, data types, business rules
-Report Specification — KPIs, filters, visuals, stakeholder requirements
-Data Lineage Diagram — source → staging → cleaned → BI model → dashboard
-README — project summary, screenshots, usage instructions
-
-Outcome
-The final dashboard provides leadership with a clear, interactive view of operational performance. It supports compliance reporting, trend analysis, and decision‑making while demonstrating my ability to build BI solutions that combine:
-
-Data engineering
-Analytical modeling
-
-Dashboard development
-
-Stakeholder communication
+Purpose
+Showcase a complete BI workflow: raw data → engineered model → actionable insights.
